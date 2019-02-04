@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -DNDEBUG   CMakeFiles/OpenGL.dir/main.cpp.o CMakeFiles/OpenGL.dir/glad.c.o CMakeFiles/OpenGL.dir/Shader.cpp.o CMakeFiles/OpenGL.dir/stb_image.cpp.o CMakeFiles/OpenGL.dir/Camera.cpp.o CMakeFiles/OpenGL.dir/Mesh.cpp.o CMakeFiles/OpenGL.dir/Model.cpp.o  -o OpenGL /usr/lib/x86_64-linux-gnu/libglfw.so.3.2 -lassimp  -ldl
